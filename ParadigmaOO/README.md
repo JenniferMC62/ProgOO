@@ -104,8 +104,12 @@ Particularmente los diagramas de clases son uno de los tipos de diagramas más �
 | Lucidchart                   | Software de gráficos basado en web Games | 
 | IBM Rational Rhapsody        | Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos  | 
 | Microsoft Visio              | Software propietario de gráficos vectoriales y gráficos | 
-|                              |                                          |
+|                              |                                 
+<br>
 
+# Máquina Expendedora Papelería
+
+Pendiente...
 
 
 <div/>
