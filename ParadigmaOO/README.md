@@ -1,4 +1,4 @@
-# El paradigma OO
+# | El paradigma OO
 
 ## **Paradigma de programación**
 
@@ -60,9 +60,47 @@ Permite crear clases derivadas de clases ya existentes, heredando sus atributos 
 
 <br>
 
-# UML: Diagrama de clases
+# | UML: Diagrama de clases
 
-Continuara...
+## **Lenguaje de Modelado Unificado (UML)**
+
+**| ¿Qué es UML?** El lenguaje de modelado unificado (UML) es un estándar para la representación visual de objetos, estados y procesos dentro de un sistema. Por un lado, el lenguaje de modelado puede servir de modelo para un proyecto y garantizar así una arquitectura de información estructurada; por el otro, ayuda a los desarrolladores a presentar la descripción del sistema de una manera que sea comprensible para quienes están fuera del campo. UML se utiliza principalmente en el desarrollo de software orientado a objetos. Al ampliar el estándar en la versión 2.0, también es adecuado para visualizar procesos empresariales.
+
+<br>
+
+## **Principales Autores**
+
+El UML se implementó por primera vez en la década de los 90 gracias a tres ingenieros de software: Grady Booch, Ivar Jacobson y James Rumbaugh. Ellos querían desarrollar una forma menos caótica de representar el cada vez más complejo desarrollo de software, a la vez que separaban la metodología del proceso. Hoy, el UML sigue siendo la indicación estándar para los desarrolladores, así como para gestores de proyectos, propietarios de negocios, empresarios tecnológicos y profesionales de distintos sectores. 
+
+<br>
+
+* | Rumbaugh, 1991 | Técnica de Modelado de Objetos (OMT - siglas en inglés).
+
+* | Booch, 1941 | Booch.
+
+* | Jacobson, 1992 | Ingeniería de Software Orientada a Objetos (OOSE - siglas en inglés).
+
+<br>
+
+## **Qué tanto se utiliza y dónde se implementa**
+
+El Lenguaje Unificado de Modelado (UML) desempeña un rol importante no solo en el desarrollo de software, sino también en los sistemas que no tienen software en muchas industrias, ya que es una forma de mostrar visualmente el comportamiento y la estructura de un sistema o proceso. el UML ayuda a mostrar errores potenciales en las estructuras de aplicaciones, el comportamiento del sistema y otros procesos empresariales.  
+
+<br>
+
+Particularmente los diagramas de clases son uno de los tipos de diagramas más útiles en UML, ya que trazan claramente la estructura de un sistema concreto al modelar sus clases, atributos, operaciones y relaciones entre objetos.
+
+<br>
+
+## **Herramientas para el modelado de UML**
+
+<br>
+
+
+
+
+
+
 
 
 
