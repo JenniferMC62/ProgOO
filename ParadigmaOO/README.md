@@ -109,7 +109,9 @@ Particularmente los diagramas de clases son uno de los tipos de diagramas más �
 
 # Máquina Expendedora Papelería
 
-Pendiente...
+<br>
+
+![UMLMAQUINA](https://lh3.googleusercontent.com/NYA4b8TOjY3UqPol38BocxTt_bUuAQJ0ke7l5C7wu7GoVy49HJa-AXZGMVx46VA8AilnSYec5vTL3PqwwLA8YgHgXBNSggG_HhwvgF7MrA)
 
 
 <div/>
