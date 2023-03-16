@@ -62,7 +62,7 @@ Permite crear clases derivadas de clases ya existentes, heredando sus atributos 
 
 # UML: Diagrama de clases
 
-...
+Continuara...
 
 
 
