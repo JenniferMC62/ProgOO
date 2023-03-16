@@ -5,7 +5,7 @@
 <div style="text-align: justify">
 
 **Definición |** Es una manera o estilo de programación de software. Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales.
-<div/>
+
 <br>
 
 ## **Programación Orientada a Objetos**
@@ -96,6 +96,19 @@ Particularmente los diagramas de clases son uno de los tipos de diagramas más �
 
 <br>
 
+| Herramienta UML              | Tipo                                     | 
+|------------------------------|------------------------------------------|
+| GitMind                      | Online Mind Map Tool                     | 
+| Gliffy                       | Software de gráficos basado en web       | 
+| MagicDraw                    | Square Enix                              | 
+| Lucidchart                   | Software de gráficos basado en web Games | 
+| IBM Rational Rhapsody        | Entorno de desarrollo gráfico para el desarrollo y validación de software basado en modelos  | 
+| Microsoft Visio              | Software propietario de gráficos vectoriales y gráficos | 
+|                              |                                          |
+
+
+
+<div/>
 
 
 
