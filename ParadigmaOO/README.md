@@ -6,9 +6,13 @@
 
 **Definición |** Es una manera o estilo de programación de software. Se trata de un conjunto de métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales.
 
+<div/>
+
 <br>
 
 ## **Programación Orientada a Objetos**
+
+<div style="text-align: justify">
 
 **Definición |**
 La Programación Orientada a Objetos (POO) es un paradigma de programación, que se basa en el concepto de clases y objetos. 
@@ -17,11 +21,17 @@ Este tipo de programación se utiliza para estructurar un programa de software e
 
 Sigue el principio de desarrollo de software utilizado por muchos programadores DRY (Don’t Repeat Yourself), para evitar duplicar el código y crear de esta manera programas eficientes. Además, evita el acceso no deseado a los datos o la exposición de código propietario mediante la encapsulación y la abstracción
 
+<div/>
+
 <br>
 
 ### **Primer Lenguaje de Programación**
 
+<div style="text-align: justify">
+
 Podemos considerar como inicio del paradigma de Programación Orientada a Objetos (Object Oriented Programming) el lenguaje de programación **Simula** desarrollado **por Kristen Nygaard y Ole-Johan Dahl en la mitad de los años 60 en el Centro de Computación Noruego (The Norwegian Computing Center)**. Simula se definió como un lenguaje de programación orientado a la simulación de procesos, con el que se podían definir distintos tipos de actividades. En este lenguaje aparecen por primera vez los conceptos de clases y objetos. 
+
+<div/>
 
 ## **Conceptos Fundamentales de la Programación Orientada a Objetos**
 
@@ -29,19 +39,31 @@ Podemos considerar como inicio del paradigma de Programación Orientada a Objeto
 
 ## **Abstracción**
 
+<div style="text-align: justify">
+
 **Definición |** Cuando tomamos las características y funcionalidades más relevantes de un objeto en particular para representarlas por medio de atributos y métodos, y descartamos lo que nos es irrelevante. 
+
+<div/>
 
 <br>
 
 ![ABSTRACCIÓN](https://programandoamimanera.com/wp-content/uploads/2019/11/poo_esquema.jpg)
 
+<div style="text-align: justify">
+
 **Importancia |** Un programa no es más que una descripción abstracta de un procedimiento o fenómeno que existe o sucede en el mundo real, por ello, la abstracción es crucial para comprender el complejo mundo que nos rodea, es una herramienta muy potente para tratar la complejidad de las clases y los objetos.
+
+<div/>
 
 <br>
 
 ## **Encapsulamiento**
 
+<div style="text-align: justify">
+
 El encapsulamiento ocurre cuando se almacena toda la información relevante de un objeto dentro del mismo. También nos permite ocultar dicha información del exterior y decidir a qué información se le asignará acceso privado o público según lo requiera el programador.
+
+<div/>
 
 <br>
 
